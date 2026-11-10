@@ -1,1 +1,2 @@
+#Temporal-Deep-Learning-for-3D-Facial-Expression-and-AU-Detection-Prediction
 Deep learning-based facial expression analysis using RGB video sequences and 3D facial models reconstructed with FLAME. The project combines Bidirectional and Unidirectional LSTM networks, along with ResNet18 visual feature extraction, to classify Facial Action Units (AUs) and predict their temporal evolution. The study investigates the impact of sequence length on classification accuracy and evaluates regression performance across different facial movements.
